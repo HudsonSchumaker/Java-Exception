@@ -10,6 +10,11 @@ import java.io.OutputStreamWriter;
 import java.io.Reader;
 import java.io.Writer;
 
+/**
+ * Classe que representa um cliente no Bytebank.
+ *
+ * @author Hudson Schumaker
+ */
 public class TesteCopiarArquivo {
 
 	public static void main(String[] args) throws IOException {
