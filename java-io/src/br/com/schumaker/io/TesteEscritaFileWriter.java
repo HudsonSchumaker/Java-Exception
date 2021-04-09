@@ -4,6 +4,10 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ *
+ * @author Hudson Schumaker
+ */
 public class TesteEscritaFileWriter {
 
 	public static void main(String[] args) throws IOException {
