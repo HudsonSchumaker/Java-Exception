@@ -7,6 +7,10 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 
+/**
+ *
+ * @author Hudson Schumaker
+ */
 public class TesteEscrita {
 
 	public static void main(String[] args) throws IOException {
