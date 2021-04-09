@@ -11,7 +11,6 @@ import java.io.Reader;
 import java.io.Writer;
 
 /**
- * Classe que representa um cliente no Bytebank.
  *
  * @author Hudson Schumaker
  */
